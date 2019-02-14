@@ -1,0 +1,19 @@
+Transmission Screensaver Notes
+
+New Screens:
+	-3d wireframe globe
+
+Redesign Screens:
+- Clock:
+	add unique UI instead of actual numbers, using possibly many systems below
+		timerExample
+		dot system: 2x6 dots for hours then a 10x6 grid for minutes and 10x6 grid for seconds with hour, min, and second dots having different colors
+
+
+- Terminal
+	code has a certain chance or after random time moves to next line, making the randomstring movedown slowly and the indicator label move down and a new label is created above with the randomstring that was there before
+
+Other Notes:
+	- add some background effects to screens, such as random letters flying past
+	- redesign timer system and have certain systems going for more times (elements can move at different speeds or dont need to be updated as often)
+	- possibly port to WPF or some other system.
